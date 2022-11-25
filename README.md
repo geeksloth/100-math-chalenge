@@ -1,5 +1,5 @@
 # 100-math Challenge!
-Find *all possible equations* that is resulted to *100*, from operating the ordered number [1,2,3,...,9] with [+, -, *, /].
+Find *all possible equations* that is resulted to *100*, from operating the ordered number ```1,2,3,...,9``` with ```+, -, *, /```.
 
 ### Example output equations
 - ```1+2+3+4+5+6+7+8*9 = 100```
@@ -8,10 +8,10 @@ Find *all possible equations* that is resulted to *100*, from operating the orde
 - ...
 
 ### Rules
-- Try by yourself first! Do not see my code until you have done the challenge!
+- **Try by yourself first!** Do not see my code until you have done the challenge!
 - Use *all* numbers, not some of them.
 - Keep theirs ordering, don't swap them.
-- Between them can be ```+, -, *, /``` or pull them close together to be the new number, ig. ```1+2-3*4/5...``` or ```12+3-45*6/7...``` both are allowed.
+- Between them can be some of ```+, -, *, /``` or pull them close together to be the new number, ig. ```1+2-3*4/5...``` or ```12+3-45*6/7...``` both are allowed.
 
 ### Extra scores
 - Try to coding without using any packages.

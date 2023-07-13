@@ -1,6 +1,3 @@
-from sys import exit
-
-
 def numListToInt(numList):
 	s = ''.join(map(str, numList))
 	return int(s)
